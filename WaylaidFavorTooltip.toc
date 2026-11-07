@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: Waylaid Favor Tooltip
+## Notes: Shows Merchant's Favor and cheapest Auctionator fill cost on Waylaid crate tooltips.
+## Author: Liam
+## Version: 1.1.0
+## OptionalDeps: Auctionator
+## IconTexture: Interface\Icons\INV_Crate_05
+
+FillRecipes.lua
+WaylaidFavorTooltip.lua
