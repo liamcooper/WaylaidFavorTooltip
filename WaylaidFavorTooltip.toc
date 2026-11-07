@@ -4,6 +4,7 @@
 ## Author: Liam
 ## Version: 1.1.0
 ## OptionalDeps: Auctionator
+## X-Curse-Project-ID: 1790472
 ## IconTexture: Interface\Icons\INV_Crate_05
 
 FillRecipes.lua
